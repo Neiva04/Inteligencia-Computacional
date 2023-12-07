@@ -1,0 +1,35 @@
+score: -0.434
+wins: 283
+loses: 717
+
+score: -0.46
+wins: 27
+loses: 73
+
+score: -0.36
+wins: 32
+loses: 68
+
+score: -0.3
+wins: 35
+loses: 65
+
+score: -0.44
+wins: 28
+loses: 72
+
+score: -0.52
+wins: 24
+loses: 76
+
+score: -0.32
+wins: 34
+loses: 66
+
+score: -0.26
+wins: 37
+loses: 63
+
+score: -0.48
+wins: 26
+loses: 74
